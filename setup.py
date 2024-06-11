@@ -15,7 +15,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/corinwagen/chromatics",
 #    packages=setuptools.find_packages(),
-    install_requires=["numpy", "lmfit", "scipy", "sklearn"],
+    install_requires=["numpy", "lmfit", "scipy", "scikit-learn"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "Development Status :: 3 - Alpha",
